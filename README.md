@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a school project named Philosophers
-- 🌱 I’m currently learning C, C++ and Python
-- 👯 I’m looking for collabs on AI projects
-- 💬 Looking for a internship based in Paris or nearby Nice
+- 🌱 I’m currently learning C, C++, Python, and JS.
+- 👯 I’m looking for an internship w/full stack developpers.
+- 💬 I'm living Nice but can work in Paris too.
 - 📫 How to reach me: michael.dewerdt@gmail.com
